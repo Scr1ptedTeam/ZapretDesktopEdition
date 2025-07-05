@@ -48,8 +48,8 @@
 ![screenshot](https://github.com/Scr1ptedTeam/ZapretDesktopEdition/blob/main/Media/GifPrevZapret.gif?raw=true)
 
 > [!WARNING]  
-> Приложения всегда должно находиться по следующему пути : ```C:\Zapret Desktop Edition```.
-> \n Не меняйте расположение файлов.
+> Приложения всегда должно находиться по следующему пути : ```C:\Zapret Desktop Edition```.  
+> Не меняйте расположение файлов.
 
 ## Key Features
 
