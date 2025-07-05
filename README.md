@@ -34,7 +34,7 @@
 > **Выдержка из [`readme.md`](https://github.com/bol-van/zapret-win-bundle/blob/master/readme.md#%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%8B) репозитория [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle)*
 
 > [!IMPORTANT]
-> Все бинарные файлы в папке [`bin`](./bin) взяты из [zapret-win-bundle/zapret-winws](https://github.com/bol-van/zapret-win-bundle/tree/master/zapret-winws). Вы можете это п
+> Все бинарные файлы в папке [`bin`](./bin) взяты из [zapret-win-bundle/zapret-winws](https://github.com/bol-van/zapret-win-bundle/tree/master/zapret-winws).
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -49,6 +49,7 @@
 
 > [!WARNING]  
 > Приложения всегда должно находиться по следующему пути : ```C:\Zapret Desktop Edition```.
+> Не меняйте расположение файлов.
 
 ## Key Features
 
