@@ -47,6 +47,9 @@
 
 ![screenshot](https://github.com/Scr1ptedTeam/ZapretDesktopEdition/blob/main/Media/GifPrevZapret.gif?raw=true)
 
+> [!WARNING]  
+> Приложения всегда должно находиться по следующему пути : C:\Zapret Desktop Edition.
+
 ## Key Features
 
 * LivePreview - Make changes, See changes
