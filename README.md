@@ -45,7 +45,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://github.com/Scr1ptedTeam/ZapretDesktopEdition/blob/main/Media/0705.gif?raw=true)
+![screenshot](https://github.com/Scr1ptedTeam/ZapretDesktopEdition/blob/main/Media/GifPrevZapret.gif?raw=true)
 
 ## Key Features
 
