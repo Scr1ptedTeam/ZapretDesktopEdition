@@ -40,7 +40,7 @@
   <a href="#скачать">Скачать</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
-  <a href="#о-исходном-коде">О исходном коде</a>
+  <a href="#🔒-o-исходном-коде">О исходном коде</a>
 </p>
 
 ![screenshot](https://github.com/Scr1ptedTeam/ZapretDesktopEdition/blob/main/Media/GifPrevZapret.gif?raw=true)
