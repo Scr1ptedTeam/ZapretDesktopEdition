@@ -10,10 +10,10 @@
 <h4 align="center">Это удобное приложение, основанное на идее <a href="https://github.com/Flowseal/zapret-discord-youtube/tree/main" target="_blank">Flowseal</a>, 
   но с расширенным функционалом для автоматической работы в фоне. </h4>
 <p align="center">
-  <a href="https://www.paypal.me/AmitMerchant">
+  <a href="https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0">
       <img src="https://img.shields.io/badge/Download-%E2%98%BC-1EAEDB.svg">
   </a>
-  <a href="https://www.paypal.me/AmitMerchant">
+  <a href="https://www.donationalerts.com/r/scr1pted">
     <img src="https://img.shields.io/badge/$-Donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
