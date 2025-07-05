@@ -10,7 +10,7 @@
 <h4 align="center">Это удобное приложение, основанное на идее <a href="https://github.com/Flowseal/zapret-discord-youtube/tree/main" target="_blank">Flowseal</a>, 
   но с расширенным функционалом для автоматической работы в фоне. </h4>
 <p align="center">
-  <a href="https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0">
+  <a href="https://github.com/Scr1ptedTeam/ZapretDesktopEdition/releases/download/Publish/ZapretDEUpdater.exe">
       <img src="https://img.shields.io/badge/Download-%E2%98%BC-1EAEDB.svg">
   </a>
   <a href="https://www.donationalerts.com/r/scr1pted">
@@ -67,7 +67,7 @@
 
 ## Скачать
 
-Скачайте последнюю версию [```ZapretDEUpdater```](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0).
+Скачайте последнюю версию [```ZapretDEUpdater```](https://github.com/Scr1ptedTeam/ZapretDesktopEdition/releases/download/Publish/ZapretDEUpdater.exe).
 
 ## Credits
 
