@@ -35,12 +35,12 @@
 > Все бинарные файлы в папке [`bin`](./bin) взяты из [zapret-win-bundle/zapret-winws](https://github.com/bol-van/zapret-win-bundle/tree/master/zapret-winws).
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#особенности">Особенности</a> •
+  <a href="#как-использовать">Как Использовать</a> •
+  <a href="#скачать">Скачать</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#support">Support</a> •
+  <a href="#о-исходном-коде">О исходном коде</a>
 </p>
 
 ![screenshot](https://github.com/Scr1ptedTeam/ZapretDesktopEdition/blob/main/Media/GifPrevZapret.gif?raw=true)
