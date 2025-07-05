@@ -9,7 +9,7 @@
 
 <h4 align="center">Это удобное приложение, основанное на идее <a href="https://github.com/Flowseal/zapret-discord-youtube/tree/main" target="_blank">Flowseal</a>, 
   но с расширенным функционалом для автоматической работы в фоне. </h4>
-
+<p align="center">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
