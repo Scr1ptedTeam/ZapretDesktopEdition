@@ -73,52 +73,33 @@
 
 ## Как Использовать
 
-*Скачайте ```ZapretDEUpdater.exe``` и запустите его  
-*Программа сама установит Zapret Desktop Edition и предложит открыть папку с ним.  
-*Запустите ```ZapretDesktopEdition.exe``` и настройте все на ваш вкус.
+* Скачайте ```ZapretDEUpdater.exe``` и запустите его  
+* Программа сама установит Zapret Desktop Edition и предложит открыть папку с ним.  
+* Запустите ```ZapretDesktopEdition.exe``` и настройте все на ваш вкус.
 
-## Download
+## Скачать
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+Вы можете скачать нажав [Эту кнопку](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0).
 
 ## Credits
 
-This software uses the following open source packages:
+Приложение использует обход от Flowseal:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
-
-## Related
-
-[Try Web version of Markdownify](https://notepad.js.org/markdown-editor/)
+- [Flowseal](https://github.com/Flowseal/zapret-discord-youtube/tree/main)
 
 ## Support
 
-If you like this project and think it has helped in any way, consider buying me a coffee!
+Если вам нравится мое приложение, вы можете дать мне на чай!
 
-<a href="https://buymeacoffee.com/amitmerchant" target="_blank"><img src="app/img/bmc-button.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.donationalerts.com/r/scr1pted" target="_blank"><img src="app/img/bmc-button.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-## You may also like...
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+## 🔒 О исходном коде
 
-## License
+Это standalone-приложение разработано на основе открытых идей, но в данный момент его исходный код не предназначен для публичного распространения. Мы фокусируемся на стабильности и безопасности, поэтому предоставляем только готовые сборки.
 
-MIT
+Если у вас есть технические вопросы о работе приложения — мы с радостью ответим в Issues!
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
 
