@@ -71,27 +71,11 @@
 * Cross platform
   - Windows, macOS and Linux ready.
 
-## How To Use
+## Как Использовать
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
+*Скачайте ```ZapretDEUpdater.exe``` и запустите его  
+*Программа сама установит Zapret Desktop Edition и предложит открыть папку с ним.  
+*Запустите ```ZapretDesktopEdition.exe``` и настройте все на ваш вкус.
 
 ## Download
 
