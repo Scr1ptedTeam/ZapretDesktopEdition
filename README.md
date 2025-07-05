@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Это удобное приложение, основанное на идее <a href="http://electron.atom.io" target="_blank">Flowseal</a>.</h4>, но с расширенным функционалом для автоматической работы в фоне.
+<h4 align="center">Это удобное приложение, основанное на идее <a href="http://electron.atom.io" target="_blank">Flowseal</a>, но с расширенным функционалом для автоматической работы в фоне. </h4>,
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
