@@ -71,7 +71,7 @@
 
 ## Credits
 
-Приложение использует обход от Flowseal:
+Приложение основанно на идее Flowseal:
 
 - [Flowseal](https://github.com/Flowseal/zapret-discord-youtube/tree/main)
 
